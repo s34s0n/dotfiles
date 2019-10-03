@@ -4,7 +4,7 @@
 > Jenny of oldstone - GOTs8e2
 
 ## Credits
-Highly inspired by Vishnu Dev TJ,
+Highly inspired by Pedo Dev TJ,
 and Alex Pearce [!blog](https://alexpearce.me/2016/02/managing-dotfiles-with-stow/) on Managing dotfiles with stow 
 
 ### Install and Usage
